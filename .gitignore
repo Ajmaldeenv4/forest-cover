@@ -1,0 +1,6 @@
+# Python environment (rebuild with: pip install -r requirements.txt)
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+# temporary file the notebook writes while measuring model sizes
+models/_size_check.joblib
